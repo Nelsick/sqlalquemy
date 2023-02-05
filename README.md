@@ -1,6 +1,11 @@
 # Script de inserción de datos en SQL
 
-
+- - - 
+~~~
+Para crear el ambiente ejecutar:  
+´python -m venv env´
+~~~
+- - - 
 ~~~
 Si se utiliza la terminal de git bash para  iniciar el ambiente se debe ejecutar el comando:
 	1. source env/Scripts/activate
