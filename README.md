@@ -3,7 +3,7 @@
 - - - 
 ~~~
 Para crear el ambiente ejecutar:  
-	+ python -m venv env
+	- python -m venv env
 
 ~~~
 - - - 
@@ -26,6 +26,6 @@ Para la conexión a la base de datos es necesario generar las variables de entor
 
 ~~~
 Para instalar los paquetes necesarios para el código ejecutar:
-	+ pip install -r requires.txt
+	- pip install -r requires.txt
 
 ~~~
